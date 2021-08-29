@@ -31,31 +31,31 @@
             <div class="col">
                 <div class="mb-3">
                     <label for="lbl_codigo" class="form-label">Codigo</label>
-                    <input type="text" name="txt_codigo" id="txt_codigo" class="form-control" placeholder="Codigo: E200"
+                    <input type="text" name="txt_codigo" id="txt_codigo" class="form-control" placeholder="Codigo: E100"
                         value="<?php echo $fila['codigo'] ?>" aria-describedby="helpId" Required>
                 </div>
                 <div class="mb-3">
                     <label for="lbl_nombres" class="form-label">Nombres</label>
                     <input type="text" name="txt_nombres" id="txt_nombres" class="form-control"
-                        value="<?php echo $fila['nombres'] ?>" placeholder="Nombres: Mario Haroldo"
+                        value="<?php echo $fila['nombres'] ?>" placeholder="Nombres: Jhensser Andreé"
                         aria-describedby="helpId" Required>
                 </div>
                 <div class="mb-3">
                     <label for="lbl_apellidos" class="form-label">Apellidos</label>
                     <input type="text" name="txt_apellidos" id="txt_apellidos" class="form-control"
-                        value="<?php echo $fila['apellidos'] ?>" placeholder="Apellidos: Sinay Gaytán"
+                        value="<?php echo $fila['apellidos'] ?>" placeholder="Apellidos: Aguirre Galdámez"
                         aria-describedby="helpId" Required>
                 </div>
                 <div class="mb-3">
                     <label for="lbl_direccion" class="form-label">Direccion</label>
                     <input type="text" name="txt_direccion" id="txt_direccion" class="form-control"
-                        value="<?php echo $fila['direccion'] ?>" placeholder="Direccion: 4ta calle"
+                        value="<?php echo $fila['direccion'] ?>" placeholder="Direccion: 4ta calle 4-15 "
                         aria-describedby="helpId" Required>
                 </div>
                 <div class="mb-3">
                     <label for="lbl_telefono" class="form-label">Telefono</label>
                     <input type="text" name="txt_telefono" id="txt_telefono" class="form-control"
-                        value="<?php echo $fila['telefono'] ?>" placeholder="Telefono: 30319066"
+                        value="<?php echo $fila['telefono'] ?>" placeholder="Telefono: 35410540"
                         aria-describedby="helpId" Required>
                 </div>
                 <div class="mb-3">
