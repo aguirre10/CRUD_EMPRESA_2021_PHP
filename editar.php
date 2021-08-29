@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <!-- Formulario para editar -->
+    <!-- Formulario para editar empleado -->
     <h1>Formulario Empresa</h1>
     <div class="container">
         <form class="d-flex" action="" method="post">
